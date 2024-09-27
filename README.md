@@ -13,7 +13,7 @@ A simple yet addictive Snake Game built using Pygame. Navigate the snake to eat 
 
 ## How to Run the Game
 1. Clone this repository  ```bash
-   git clone https://github.com/Ayushj0704/Snake-game.git
+   git clone https://github.com/Ayushj0704/Snake-game-/tree/main
 
 ###Gameplay Instructions
 Use the arrow keys to control the direction of the snake.
